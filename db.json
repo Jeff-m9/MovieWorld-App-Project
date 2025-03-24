@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "genre": "comedy",
+      "img": "https://uniathenaprods3.uniathena.com/s3fs-public/insights-article/seriesreview-e2-80-9cfriends-e2-80-9d_0.jpg",
+      "name": "friends",
+      "description": "Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening."
+    },
+    {
+      "id": "2",
+      "genre": "drama",
+      "img": "https://m.media-amazon.com/images/M/MV5BZWNiZjFiNGEtNGZmMS00YTBlLWJlNmQtZTA2NzEzZWE4ZGQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Sons of Anarchy",
+      "description": "Jax Teller, a man in his early 30s, struggles to find a balance in his life between being a new dad and his involvement in a motorcycle gang."
+    },
+    {
+      "id": "3",
+      "img": "https://assets-prd.ignimgs.com/2024/07/01/union-xlg-button-1719836646694.jpg?width=300&auto=webp",
+      "genre": "action",
+      "name": "The Union",
+      "description": "Mike, a down-to-earth construction worker, is thrust into the world of super spies and secret agents when his high school sweetheart, Roxanne, recruits him on a high-stakes US intelligence mission."
+    }
+  ]
+}
