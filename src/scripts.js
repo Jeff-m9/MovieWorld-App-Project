@@ -24,7 +24,7 @@ function renderMovies(movies) {
   movies.forEach((movie) => {
     const movieContainer = document.createElement("div");
 
-    movieContainer.classList.add("card", "item");
+    movieContainer.classList.add("card", "movie");
 
     const movieImage = document.createElement("img");
     movieImage.classList.add("card-img-top");
@@ -50,3 +50,5 @@ function renderMovies(movies) {
     mainMovieDiv.appendChild(movieContainer);
   });
 }
+
+
