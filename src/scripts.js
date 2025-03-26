@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   getMovies();
 });
 
-function getMovies() {
+function getMovies(searchValue = "") {
   const options = {
     method: "GET",
     headers: {
@@ -10,7 +10,10 @@ function getMovies() {
     },
   };
 
-  fetch("http://localhost:3000/movies", options)
+  fetch(
+    `http://localhost:3000/movies${searchValue ? `?name=${searchValue}` : ""}`,
+    options
+  )
     .then((response) => response.json())
     .then(renderMovies)
     .catch((err) => console.error(err));
@@ -51,4 +54,21 @@ function renderMovies(movies) {
   });
 }
 
+const searchForm = document.getElementById("search-form");
+searchForm.addEventListener("submit", (e) => {
+  e.preventDefault();
+
+  const searchValue = document.getElementById("search-input").value.trim();
+
+  fetch("http://localhost:3000/movies", { method: "GET" })
+    .then((res) => res.json())
+    .then((data) => {
+      const filteredData = data.filter((movie) =>
+        movie.name.toLowerCase().includes(searchValue.toLowerCase())
+      );
+      renderMovies(filteredData);
+    });
+
+  searchForm.reset();
+});
 
