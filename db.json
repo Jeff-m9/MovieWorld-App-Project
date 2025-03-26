@@ -60,7 +60,7 @@
       "id": "9",
       "genre": "Thriller",
       "image": "https://m.media-amazon.com/images/I/81RjnmWT7VL._AC_UF894,1000_QL80_.jpg",
-      "name": "Back in action",
+      "name": "The order",
       "description": "A string of violent robberies in the Pacific Northwest leads veteran FBI agent Terry Husk to a white supremacist group; the group plans to overthrow the federal government."
     },
     {
@@ -83,6 +83,90 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMzc5MTQ1OGUtMmY5ZS00OWUwLTk4ZDgtMjViODU1MGUxMGZhXkEyXkFqcGc@._V1_.jpg",
       "name": "Black-ish",
       "description": "A man tries to get his family to mingle with the neighbours and form a rapport with them in an effort to fit in and find his place in society."
+    },
+    {
+      "id": "13",
+      "genre": "Action",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Obliterated.jpeg",
+      "name": "Oblitereted",
+      "description": "An elite special forces team thwarts a deadly threat to Las Vegas; after a celebratory party, the team discovers that the bomb they deactivated was a fake; now intoxicated, the team has to find the real bomb and save the world."
+    },
+    {
+      "id": "14",
+      "genre": "Fantasy",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/avatar_800x1200_208c9665.jpeg?region=0%2C0%2C800%2C1200",
+      "name": "Avatar",
+      "description": "Jake, a paraplegic marine, replaces his brother on the Na'vi-inhabited Pandora for a corporate mission. He is accepted by the natives as one of their own, but he must decide where his loyalties lie."
+    },
+    {
+      "id": "15",
+      "genre": "Sci-fi",
+      "image": "https://musicart.xboxlive.com/7/4ca85000-0000-0000-0000-000000000002/504/image.jpg",
+      "name": "Ready player one",
+      "description": "When the creator of a virtual reality world called OASIS dies, he leaves a challenge behind. Hidden inside the virtual world is an Easter Egg, which grants a worthy person total control over OASIS."
+    },
+    {
+      "id": "16",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "IT",
+      "description": "This is a 2017 supernatural horror film based on Stephen King's novel, following a group of seven children in Derry, Maine, who face a shape-shifting, demonic entity that preys on their fears, disguised as a clown named Pennywise. "
+    },
+    {
+      "id": "17",
+      "genre": "Comedy",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Brooklyn nine-nine",
+      "description": "Ray Holt, an eccentric commanding officer, and his diverse and quirky team of odd detectives solve crimes in Brooklyn, New York City."
+    },
+    {
+      "id": "18",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/81Qw5nY7vKL.jpg",
+      "name": "YOU",
+      "description": "What would you do for love? For Joe, an intense young man who frequently becomes smitten with beautiful, smart women, this question is put to the test. A charming yet awkward crush becomes something more sinister when love turns into obsession for Joe."
+    },
+    {
+      "id": "19",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmVmZGQ2ZTctYzE4NC00YzkxLThhNjYtNGIyZjJmZGEwMjUzXkEyXkFqcGc@._V1_.jpg",
+      "name": "Lord of the rings",
+      "description": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth."
+    },
+    {
+      "id": "20",
+      "genre": "Horror",
+      "image": "https://e0.pxfuel.com/wallpapers/657/367/desktop-wallpaper-the-nun-2022-movie-thumbnail.jpg",
+      "name": "The nun",
+      "description": "A priest and a novice arrive in Romania to investigate the death of a young nun. However, things take an ugly turn after they encounter a supernatural force."
+    },
+    {
+      "id": "21",
+      "genre": "Drama",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "The queen's gambit",
+      "description": "Set during the Cold War era, orphaned chess prodigy Beth Harmon struggles with addiction in a quest to become the greatest chess player in the world."
+    },
+    {
+      "id": "22",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Game of Thrones",
+      "description": "Nine noble families wage war against each other in order to gain control over the mythical land of Westeros. Meanwhile, a force is rising after millenniums and threatens the existence of living men."
+    },
+    {
+      "id": "23",
+      "genre": "Drama",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185128_b_v8_ag.jpg",
+      "name": "Prison break",
+      "description": "Michael Scofield finds himself in the Ogygia Prison in Sana'a, Yemen, seven years after his apparent death. His friends, brother and fellow escapee do everything it takes to bring him home."
+    },
+    {
+      "id": "24",
+      "genre": "Sci-fi",
+      "image": "https://resizing.flixster.com/wnZN6VrjWe4-xyFfhtXgmoRRNyM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlNDNkZGQ3LTEwOWItNGFmZi1iYzNjLWRmYjJhYzZkNThhZS53ZWJw",
+      "name": "Moratal engines",
+      "description": "In a post-apocalyptic world where cities move and consume each other to survive, two strangers come together to stop a sinister and destructive conspiracy."
     }
   ]
 }
