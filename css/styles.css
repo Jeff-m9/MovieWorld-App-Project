@@ -9,7 +9,7 @@
 #main-div {
 	display: grid;
 	grid-template-columns: repeat(6, 1fr);
-	gap: 8px;
+	gap: 10px;
 }
 
 .card {
@@ -25,4 +25,10 @@
 #main-div {
      margin-top: 100px;
 }
+
+.movie:hover {
+	transform: scale(1.05);
+	z-index: 1;
+     cursor: pointer;
+  }
 
