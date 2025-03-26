@@ -17,9 +17,9 @@ function getMovies() {
 }
 
 function renderMovies(movies) {
-  const mainMovieDiv = document.getElementById("main-div");
+  const mainMoviesDiv = document.getElementById("main-div");
 
-  mainMovieDiv.innerHTML = "";
+  mainMoviesDiv.innerHTML = "";
 
   movies.forEach((movie) => {
     const movieContainer = document.createElement("div");
@@ -47,7 +47,7 @@ function renderMovies(movies) {
 
     movieContainer.appendChild(movieContentDiv);
 
-    mainMovieDiv.appendChild(movieContainer);
+    mainMoviesDiv.appendChild(movieContainer);
   });
 }
 
