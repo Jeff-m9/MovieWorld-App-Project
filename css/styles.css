@@ -1,17 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
 .movie img {
+     object-fit: contain;
      height: 300px;
-     width: auto;
+     width: 293px;
 }
 
 #main-div {
 	display: grid;
-	grid-template-columns: repeat(5, 1fr);
+	grid-template-columns: repeat(6, 1fr);
 	gap: 8px;
 }
 
 .card {
-     background-color: black;
+     background-color: #212529;
      color: white;
+}
 
+.movie h2 {
+     color: blue;
+     font-family: "Playfair Display",sans-serif;
+}
+
+#main-div {
+     margin-top: 100px;
 }
 
