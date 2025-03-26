@@ -4,7 +4,7 @@
       "id": "1",
       "genre": "Comedy",
       "image": "https://uniathenaprods3.uniathena.com/s3fs-public/insights-article/seriesreview-e2-80-9cfriends-e2-80-9d_0.jpg",
-      "name": "friends",
+      "name": "Friends",
       "description": "Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening."
     },
     {
@@ -20,6 +20,69 @@
       "genre": "Action",
       "name": "The Union",
       "description": "Mike, a down-to-earth construction worker, is thrust into the world of super spies and secret agents when his high school sweetheart, Roxanne, recruits him on a high-stakes US intelligence mission."
+    },
+    {
+      "id": "4",
+      "genre": "Action",
+      "image": "https://resizing.flixster.com/SzNzBSg0ezjiN6IEHyeZ-fF1aqU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15987_v_h9_at.jpg",
+      "name": "Shawshank redemption",
+      "description": "Andy Dufresne, a successful banker, is arrested for the murders of his wife and her lover, and is sentenced to life imprisonment at the Shawshank prison. He becomes the most unconventional prisoner."
+    },
+    {
+      "id": "5",
+      "genre": "Comedy",
+      "image": "https://musicart.xboxlive.com/7/136c5100-0000-0000-0000-000000000002/504/image.jpg",
+      "name": "We're the Millers",
+      "description": "David, a drug dealer, plans to go to Mexico to pick up a shipment of Marijuana. He hires a stripper, Rose, and two teenagers to pose as his family and cross the border without arousing suspicion."
+    },
+    {
+      "id": "6",
+      "genre": "Drama",
+      "image": "https://occ-0-8407-1009.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYC6kGe6HeAQWxcCyxT1TjRO9lB_QYHuEfbCa8-Ybrgcdd0aVAZ_1G8aDiC7omsAmLIyblG7Sfw5oqXnUP63fKEg-npU2sIjBIr5.webp?r=4ca",
+      "name": "Suits",
+      "description": "A college dropout, Mike Ross, possesses immense competence. A set of circumstances leads to him effectively working as a law associate for Harvey Specter despite not having gone to law school."
+    },
+    {
+      "id": "7",
+      "genre": "Sci-fi",
+      "image": "https://cdn.kinocheck.com/i/9apsbnwchj.jpg",
+      "name": "The electric state",
+      "description": "The Electric State is a 2025 American science fiction action-adventure film produced and directed by Anthony and Joe Russo. Its screenplay by Christopher Markus and Stephen McFeely is loosely based on the 2018 illustrated novel by Simon Stålenhag."
+    },
+    {
+      "id": "8",
+      "genre": "Action",
+      "image": "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXBVStLgVAEXF05bh8wiFPYXF3oyFCx3EqDc0ijpDHvz1nBQeCodCtomlbm5-ZWrmWk-Vv0xcIm_Uhp8XuGrZczGEUfNzIEEzS-wqLplM7Fi4kC1jEQd9cxXSq0bf4abZoqxiA.webp?r=eca",
+      "name": "Back in action",
+      "description": "Former CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed."
+    },
+    {
+      "id": "9",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/I/81RjnmWT7VL._AC_UF894,1000_QL80_.jpg",
+      "name": "Back in action",
+      "description": "A string of violent robberies in the Pacific Northwest leads veteran FBI agent Terry Husk to a white supremacist group; the group plans to overthrow the federal government."
+    },
+    {
+      "id": "10",
+      "genre": "Drama",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
+      "name": "Breaking bad",
+      "description": "Walter White, a chemistry teacher, discovers that he has cancer and decides to get into the meth-making business to repay his medical debts. His priorities begin to change when he partners with Jesse."
+    },
+    {
+      "id": "11",
+      "genre": "Drama",
+      "image": "https://resizing.flixster.com/3ko6zO6791p1QPOXHUI2eCwmHXQ=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMDIyOTBmN2QtMzM0Yi00ODUxLWE0MWYtMmViYWJiOGViZjRkLmpwZw==",
+      "name": "Ozark",
+      "description": "This drama series stars Jason Bateman as Marty Byrde, a financial planner who relocates his family from Chicago to a summer resort community in the Ozarks. With wife Wendy and their two kids in tow, Marty is on the move after a money-laundering scheme goes wrong, forcing him to pay off a substantial debt to a Mexican drug lord in order to keep his family safe. "
+    },
+    {
+      "id": "12",
+      "genre": "Comedy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzc5MTQ1OGUtMmY5ZS00OWUwLTk4ZDgtMjViODU1MGUxMGZhXkEyXkFqcGc@._V1_.jpg",
+      "name": "Black-ish",
+      "description": "A man tries to get his family to mingle with the neighbours and form a rapport with them in an effort to fit in and find his place in society."
     }
   ]
 }
