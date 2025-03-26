@@ -167,6 +167,132 @@
       "image": "https://resizing.flixster.com/wnZN6VrjWe4-xyFfhtXgmoRRNyM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlNDNkZGQ3LTEwOWItNGFmZi1iYzNjLWRmYjJhYzZkNThhZS53ZWJw",
       "name": "Moratal engines",
       "description": "In a post-apocalyptic world where cities move and consume each other to survive, two strangers come together to stop a sinister and destructive conspiracy."
+    },
+    {
+      "id": "25",
+      "genre": "Thriller",
+      "image": "https://resizing.flixster.com/hertkw4AKx4FrF90z1TQWpYYFtE=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vZGIyM2RkMzktNDQ5My00ZDZhLWE1ZTYtNGNlYjBlNjVjYTRkLmpwZw==",
+      "name": "The night agent",
+      "description": "While monitoring an emergency line, an FBI agent answers a call that plunges him into a deadly conspiracy involving a mole at the White House."
+    },
+    {
+      "id": "26",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDE1M2U5NmQtZTBmNS00ZGY5LWI0ZGYtNGIzNmE2YTI2NzlhXkEyXkFqcGc@._V1_.jpg",
+      "name": "The madness",
+      "description": "Media pundit Muncie Daniels must fight to prove his innocence after stumbling upon a murder in the Poconos, while trying to reconnect with his estranged family and his lost ideals."
+    },
+    {
+      "id": "27",
+      "genre": "Fantasy",
+      "image": "https://miro.medium.com/v2/resize:fit:338/1*AqbRna2wIG3eGU_7UwtNAg.jpeg",
+      "name": "Warcraft",
+      "description": "A few human survivors must team up with a group of dissenting Orcs to stop an Orc horde from invading their planet through a magic portal."
+    },
+    {
+      "id": "28",
+      "genre": "Action",
+      "image": "https://www.stylerave.com/wp-content/uploads/2024/10/IMG_20241010_034402_042.jpg",
+      "name": "Reacher",
+      "description": "When retired Military Police Officer Jack Reacher is arrested for a murder he did not commit, he finds himself in the middle of a deadly conspiracy full of dirty cops, shady businessmen, and scheming politicians."
+    },
+    {
+      "id": "29",
+      "genre": "Thriller",
+      "image": "https://resizing.flixster.com/fUEgKZ0vfoS3M4EsZQUUsQi_jHk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9691641_b_v9_ae.jpg",
+      "name": "House of cards",
+      "description": "Frank Underwood is a Democrat appointed as the Secretary of State. Along with his wife, he sets out on a quest to seek revenge from the people who betrayed him while successfully rising to supremacy."
+    },
+    {
+      "id": "30",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2I0NWE2Y2QtM2I3YS00MzRlLThlMjAtMDViNGMwNjRhZjVlXkEyXkFqcGc@._V1_.jpg",
+      "name": "Bodyguard",
+      "description": "David Budd, a war veteran who works for the Royalty and Specialist Protection Branch of London's Metropolitan Police Service as a protection officer is assigned to protect politician Julia Montague."
+    },
+    {
+      "id": "31",
+      "genre": "Action",
+      "image": "https://assets-prd.ignimgs.com/2022/06/07/the-gray-man-button-1654637490629.jpg",
+      "name": "The gray man",
+      "description": "When the CIA's top asset -- his identity known to no one -- uncovers agency secrets, he triggers a global hunt by assassins set loose by his ex-colleague."
+    },
+    {
+      "id": "32",
+      "genre": "Horror",
+      "image": "https://musicart.xboxlive.com/7/8ac41100-0000-0000-0000-000000000002/504/image.jpg",
+      "name": "The conjuring",
+      "description": "Rod and Carolyn find their pet dog dead under mysterious circumstances and experience a spirit that harms their daughter Andrea. They finally call investigators who can help them get out of the mess."
+    },
+    {
+      "id": "33",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjkyMDU5ZWQtZDhkOC00ZWFjLWIyM2MtZWFhMDUzNjdlNzU2XkEyXkFqcGc@._V1_.jpg",
+      "name": "Annabelle",
+      "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists."
+    },
+    {
+      "id": "34",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_.jpg",
+      "name": "Twilight",
+      "description": "Bella Swan is an average teenager who often goes unnoticed. However, her life changes for the better when she meets Edward Cullen, a vampire with dreamy eyes and skin that sparkles in sunlight."
+    },
+    {
+      "id": "35",
+      "genre": "Sci-fi",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10543523_p_v8_as.jpg",
+      "name": "Interstellar",
+      "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+    },
+    {
+      "id": "36",
+      "genre": "Sci-fi",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Dune",
+      "description": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource."
+    },
+    {
+      "id": "37",
+      "genre": "Horror",
+      "image": "https://play-lh.googleusercontent.com/NLd3erPoZmSi0oczSzNqq_MF0q-2sGR2PRLD9_RrgAGHjLjRWI5zbs4LrI8NGa-k0zcfQvV6B6hcii4zIRg",
+      "name": "Smile",
+      "description": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality."
+    },
+    {
+      "id": "38",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_.jpg",
+      "name": "Chronicles of Narnia",
+      "description": "The Chronicles of Narnia is a fantasy film series and media franchise based on The Chronicles of Narnia, a series of novels by C. S. Lewis. The series revolves around the adventures of children in the world of Narnia, guided by Aslan, a wise and powerful lion that can speak and is the true king of Narnia."
+    },
+    {
+      "id": "39",
+      "genre": "Horror",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTk2ODQ1NDcwOV5BMl5BanBnXkFtZTgwOTY4NDk0NDM@._V1_.jpg",
+      "name": "Truth or Dare",
+      "description": "A group of friends from college play a game of truth or dare in Mexico. However, they soon realise that breaking the rules of the game leads to deadly consequences."
+    },
+    {
+      "id": "40",
+      "genre": "Sci-fi",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_.jpg",
+      "name": "Alita battle angel",
+      "description": "Alita, a battle cyborg, is revived by Ido, a doctor, who realises that she actually has the soul of a teenager. Alita then sets out to learn about her past and find her true identity."
+    },
+    {
+      "id": "41",
+      "genre": "Comedy",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/11/That%27s_My_Boy_poster.jpg",
+      "name": "That's my boy",
+      "description": "Donny, a single parent in his teens, raises his son till he turns eighteen. The two begin living separate lives until Donny appears at his son's wedding."
+    },
+    {
+      "id": "42",
+      "genre": "Comedy",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWMyYmFhMzMtYjMwYS00Zjg0LWE0NmYtNzZmZWQ5MjkwZTJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "Incoming",
+      "description": "Four freshmen in high school get ready for their first school party, they're preparing themselves for something unfamiliar and terrifying."
     }
   ]
 }
