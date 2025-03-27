@@ -72,3 +72,21 @@ searchForm.addEventListener("submit", (e) => {
   searchForm.reset();
 });
 
+const selectGenreButtons = document.querySelectorAll(".dropdown-item");
+selectGenreButtons.forEach((button) => {
+  button.addEventListener("click", (e) => {
+    let genre = e.target.textContent;
+    filterByGenre(genre)
+  });
+});
+
+function filterByGenre(genre) {
+  fetch("http://localhost:3000/movies", { method: "GET" })
+    .then((res) => res.json())
+    .then((data) => {
+      const filteredData = data.filter((movie) =>
+        movie.genre.toLowerCase().includes(genre.toLowerCase())
+      );
+      renderMovies(filteredData);
+    });
+}
