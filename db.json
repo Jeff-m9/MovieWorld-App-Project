@@ -293,6 +293,13 @@
       "image": "https://m.media-amazon.com/images/M/MV5BYWMyYmFhMzMtYjMwYS00Zjg0LWE0NmYtNzZmZWQ5MjkwZTJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "name": "Incoming",
       "description": "Four freshmen in high school get ready for their first school party, they're preparing themselves for something unfamiliar and terrifying."
+    },
+    {
+      "id": "43",
+      "genre": "Comedy",
+      "image": "https://humanehollywood.org/app/uploads/2020/02/t6Yj2UlqsrHHK6kJO1FWepR6mEd.jpg",
+      "name": "Grown ups",
+      "description": "When five high school friends reunite for their coach's funeral, they decide to take a trip to the lake house where they celebrated their last win and are challenged by their rivals to another match."
     }
   ]
 }
