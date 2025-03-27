@@ -23,7 +23,6 @@ function getMovies(searchValue = "") {
 
 function renderMovies(movies) {
   const mainMoviesDiv = document.getElementById("main-div");
-
   mainMoviesDiv.innerHTML = "";
 
   movies.forEach((movie) => {
@@ -32,7 +31,7 @@ function renderMovies(movies) {
     movieContainer.classList.add("card", "movie");
 
     const movieImage = document.createElement("img");
-    movieImage.classList.add("card-img-top");
+    movieImage.classList.add("card-img-top", "img-fluid");
     movieImage.src = movie.image;
     movieImage.alt = movie.name;
     movieContainer.appendChild(movieImage);
@@ -41,12 +40,12 @@ function renderMovies(movies) {
     movieContentDiv.classList.add("card-body");
 
     const movieName = document.createElement("h2");
-    movieName.classList.add("card-title");
+    movieName.classList.add("card-title", "text-sm-start");
     movieName.textContent = movie.name;
     movieContentDiv.appendChild(movieName);
 
     const movieDescription = document.createElement("p");
-    movieDescription.classList.add("card-text");
+    movieDescription.classList.add("card-text", "text-sm-start");
     movieDescription.textContent = movie.description;
     movieContentDiv.appendChild(movieDescription);
 
