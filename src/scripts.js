@@ -66,7 +66,13 @@ searchForm.addEventListener("submit", (e) => {
       const filteredData = data.filter((movie) =>
         movie.name.toLowerCase().includes(searchValue.toLowerCase())
       );
-      renderMovies(filteredData);
+      
+      if (filteredData.length === 0) {
+        const mainMoviesDiv = document.getElementById("main-div");
+        mainMoviesDiv.innerHTML = `<p id = "error-message" >Sorry, we don't have that. Please try a different search!</p>`;
+      } else {
+        renderMovies(filteredData);
+      }
     });
 
   searchForm.reset();
