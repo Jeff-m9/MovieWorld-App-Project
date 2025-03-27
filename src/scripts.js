@@ -10,10 +10,7 @@ function getMovies(searchValue = "") {
     },
   };
 
-  fetch(
-    `http://localhost:3000/movies${searchValue ? `?name=${searchValue}` : ""}`,
-    options
-  )
+  fetch(db.json)
     .then((response) => response.json())
     .then(renderMovies)
     .catch((err) => console.error(err));
