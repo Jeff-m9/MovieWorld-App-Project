@@ -300,6 +300,41 @@
       "image": "https://humanehollywood.org/app/uploads/2020/02/t6Yj2UlqsrHHK6kJO1FWepR6mEd.jpg",
       "name": "Grown ups",
       "description": "When five high school friends reunite for their coach's funeral, they decide to take a trip to the lake house where they celebrated their last win and are challenged by their rivals to another match."
+    },
+    {
+      "id": "44",
+      "genre": "Comedy",
+      "image": "https://musicart.xboxlive.com/7/1d321200-0000-0000-0000-000000000002/504/image.jpg",
+      "name": "Grown ups 2",
+      "description": "Lenny decides to move to his hometown with his family and friends. On his arrival at the hometown, he faces many hilarious situations while his friends struggle to cope up with their own issues."
+    },
+    {
+      "id": "45",
+      "genre": "Action",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6U_Js2F9cAZlu0PlSYP20-OibwVPGb5pwA&s",
+      "name": "Extraction",
+      "description": "While battling his own demons, Tyler, a ruthless mercenary, accepts the offer of rescuing an Indian crime lord's teenage son from Bangladesh. However, when he arrives, a gruesome blood bath ensues."
+    },
+    {
+      "id": "46",
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MDU5MTktMDZkMy00NDU1LWIxM2UtODg5OGFiNmRhNDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "The witcher",
+      "description": "The witcher Geralt, a mutated monster hunter, struggles to find his place in a world in which people often prove more wicked than beasts."
+    },
+    {
+      "id": "47",
+      "genre": "Thriller",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg",
+      "name": "John Wick",
+      "description": "John Wick is an American neo-noir action thriller film series and media franchise created by Derek Kolstad. It centers on the titular character portrayed by actor Keanu Reeves. Wick is a legendary hitman who is reluctantly drawn back into the criminal underworld after retiring."
+    },
+    {
+      "id": "48",
+      "genre": "Sci-fi",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_FMjpg_UX1000_.jpg",
+      "name": "Oblivion",
+      "description": "Jack Harper, a drone repairman stationed on Earth that has been ravaged by war with extraterrestrials, questions his identity after rescuing the woman who keeps appearing in his dreams."
     }
   ]
 }
